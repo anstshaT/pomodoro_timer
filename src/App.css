@@ -5,7 +5,14 @@
   text-align: center;
 
   --font-family: "Instrument Serif", sans-serif;
-  --bg-color: #d9d9d9;
-  --brown: #2e1313;
-  --red: #bb2525;
+  --bg-color: #e1dcc9;
+  --color: #1f150c;
+  --red: #810b38;
+
+  font-family: var(--font-family);
+}
+
+h1 {
+  font-size: 74px;
+  font-weight: 200;
 }
